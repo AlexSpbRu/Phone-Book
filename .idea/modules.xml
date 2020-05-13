@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Phone_Book.iml" filepath="$PROJECT_DIR$/.idea/modules/Phone_Book.iml" group="Phone_Book" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Phone Book/task/Phone_Book-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Phone Book/task/Phone_Book-task.iml" group="Phone_Book/Phone_Book-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Phone Book/task/Phone_Book-task_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Phone Book/task/Phone_Book-task_main.iml" group="Phone_Book/Phone_Book-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Phone Book/task/Phone_Book-task_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Phone Book/task/Phone_Book-task_test.iml" group="Phone_Book/Phone_Book-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Find array elements in another array/Problems-Find_array_elements_in_another_array.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Find array elements in another array/Problems-Find_array_elements_in_another_array.iml" group="Phone_Book/Problems-Find_array_elements_in_another_array" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Find array elements in another array/Problems-Find_array_elements_in_another_array_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Find array elements in another array/Problems-Find_array_elements_in_another_array_main.iml" group="Phone_Book/Problems-Find_array_elements_in_another_array" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Find array elements in another array/Problems-Find_array_elements_in_another_array_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Find array elements in another array/Problems-Find_array_elements_in_another_array_test.iml" group="Phone_Book/Problems-Find_array_elements_in_another_array" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Implementing the EntrySet method/Problems-Implementing_the_EntrySet_method.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Implementing the EntrySet method/Problems-Implementing_the_EntrySet_method.iml" group="Phone_Book/Problems-Implementing_the_EntrySet_method" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Implementing the EntrySet method/Problems-Implementing_the_EntrySet_method_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Implementing the EntrySet method/Problems-Implementing_the_EntrySet_method_main.iml" group="Phone_Book/Problems-Implementing_the_EntrySet_method" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Implementing the EntrySet method/Problems-Implementing_the_EntrySet_method_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Implementing the EntrySet method/Problems-Implementing_the_EntrySet_method_test.iml" group="Phone_Book/Problems-Implementing_the_EntrySet_method" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Phone Book/Problems-Phone_Book.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Phone Book/Problems-Phone_Book.iml" group="Phone_Book/Problems-Phone_Book" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Phone Book/Problems-Phone_Book_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Phone Book/Problems-Phone_Book_main.iml" group="Phone_Book/Problems-Phone_Book" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Phone Book/Problems-Phone_Book_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Phone Book/Problems-Phone_Book_test.iml" group="Phone_Book/Problems-Phone_Book" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Rehashing/Problems-Rehashing.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Rehashing/Problems-Rehashing.iml" group="Phone_Book/Problems-Rehashing" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Rehashing/Problems-Rehashing_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Rehashing/Problems-Rehashing_main.iml" group="Phone_Book/Problems-Rehashing" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Rehashing/Problems-Rehashing_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Rehashing/Problems-Rehashing_test.iml" group="Phone_Book/Problems-Rehashing" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Removing/Problems-Removing.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Removing/Problems-Removing.iml" group="Phone_Book/Problems-Removing" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Removing/Problems-Removing_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Removing/Problems-Removing_main.iml" group="Phone_Book/Problems-Removing" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Removing/Problems-Removing_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Removing/Problems-Removing_test.iml" group="Phone_Book/Problems-Removing" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util.iml" group="Phone_Book/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" group="Phone_Book/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" group="Phone_Book/util" />
+    </modules>
+  </component>
+</project>

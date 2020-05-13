@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Phone_Book-task_main" target="11" />
+      <module name="Phone_Book-task_test" target="11" />
+      <module name="Problems-Find_array_elements_in_another_array_main" target="11" />
+      <module name="Problems-Find_array_elements_in_another_array_test" target="11" />
+      <module name="Problems-Implementing_the_EntrySet_method_main" target="11" />
+      <module name="Problems-Implementing_the_EntrySet_method_test" target="11" />
+      <module name="Problems-Phone_Book_main" target="11" />
+      <module name="Problems-Phone_Book_test" target="11" />
+      <module name="Problems-Rehashing_main" target="11" />
+      <module name="Problems-Rehashing_test" target="11" />
+      <module name="Problems-Removing_main" target="11" />
+      <module name="Problems-Removing_test" target="11" />
+      <module name="util_main" target="11" />
+      <module name="util_test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
